@@ -8,7 +8,7 @@ Twitter and Facebook have implemented [measures](https://blog.twitter.com/en_us/
 
 As of October 2019, the current biggest operation is being run by Chinese authorities to spread misinformation about the Hong Kong anti-extradition protests. Therefore the initial focus of this repository will be on CCP disinformation, but in due time the focus can also be extended to other regimes also known to spread disinformation on western social media such as Russia.
 
-What now follows is a nested list of disinformation campaigns suspected to be active, but first a notice:
+What now follows is a nested list of disinformation campaigns suspected to be active and techniques/talking points used, but first a notice:
 
 ### Notice on opinions versus disinformation
 
