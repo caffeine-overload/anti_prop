@@ -71,3 +71,5 @@ Disinformation, as opposed to a statement of opinion, is the use of particular w
      1.7.2 Calling any criticism of the CCP racist
      
      1.7.3 Claiming the protestors are motivated by racism against mainland Chinese people (covered by point 1.2.5)
+     
+ 1.8 Claiming that the Declaration of the Hong Kong Provisional Government is equivalent to a declaration of independence
