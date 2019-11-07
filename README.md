@@ -64,12 +64,16 @@ Disinformation, as opposed to a statement of opinion, is the use of particular w
      
      1.6.3 Making "they are both as bad as eachother" arguments about (respected) western/HK media and Chinese state media. 
      
- 1.7 Pulling the race card:
+     1.6.4 Claiming, without evidence, that negative reporting on China (from trusted western sources), or coverage of events in Hong Kong, is US propaganda.
+     
+ 1.7 Pulling the race card (Note: Negative sentiment about "The Chinese" counts as racism for the purpose of this list, thus is not applicable. Negative sentiment about the CCP is not, and negative sentiment about "China" should judged on context):
  
      1.7.1 Calling pro-democracy lawmakers racist against the Chinese
      
-     1.7.2 Calling any criticism of the CCP racist
+     1.7.2 Calling any criticism of the CCP racist/Equating criticism of the CCP or CCP policy with racism
      
      1.7.3 Claiming the protestors are motivated by racism against mainland Chinese people (covered by point 1.2.5)
+     
+     1.7.4 Claiming, without providing evidence, that anti-CCP or pro-HK movements (or comment threads on social media) are primarily motivated by, or infrested with racism. 
      
  1.8 Claiming that the Declaration of the Hong Kong Provisional Government is equivalent to a declaration of independence
