@@ -74,6 +74,12 @@ Disinformation, as opposed to a statement of opinion, is the use of particular w
      
      1.7.3 Claiming the protestors are motivated by racism against mainland Chinese people (covered by point 1.2.5)
      
-     1.7.4 Claiming, without providing evidence, that anti-CCP or pro-HK movements (or comment threads on social media) are primarily motivated by, or infrested with racism. 
+     1.7.4 Claiming, without providing evidence, that anti-CCP or pro-HK movements (or comment threads on social media) are primarily motivated by, or infested with racism. 
      
  1.8 Claiming that the Declaration of the Hong Kong Provisional Government is equivalent to a declaration of independence
+
+## 2 Bolivia, on the coup and indigenous rights
+
+## 3 Russia
+
+## 4 Turkey
