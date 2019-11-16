@@ -32,15 +32,19 @@ Disinformation, as opposed to a statement of opinion, is the use of particular w
  
      1.2.1 The protests are a fringe youth movement with no support from the general public
      
-     1.2.2 The majority of the public in Hong Kong is pro-Beijing
+     1.2.2 The majority of the public in Hong Kong is pro-Beijing/pro-police
      
      1.2.3 The protests were sparked by economic factors, jealousy of China, or a combination of the two, for example: "Rich kids angry at a declining HK economy"
      
      1.2.4 Any variation of "spoilt rich kids" used in describing the protestors or the motivations of the protests
      
      1.2.5 Claiming that the protests are motivated by racism/hatred of mainland Chinese people
+     
+     1.2.6 Claiming that the majority of the public does not support the 5 demands
+     
+     1.2.7 Claiming that the majority of the public consider the protestors domestic terrorists
  
- 1.3 Claiming to be a native Hong Konger, then using this claim to try to legitimise misleading or untrue facts or to present an opinion that would be unpopular in Hong Kong as a majority opinion. Examples detailed in section 1.2
+ 1.3 Claiming to be a native Hong Konger, then using this claim to try to legitimise misleading or untrue facts or to present an opinion that would be unpopular in Hong Kong as a majority opinion ([HK Pori](https://www.pori.hk/) can be used as an indication of public sentiment). Examples detailed in section 1.2. 
  
  1.4 Spreading disinformation about the terror attacks committed by gangs and raptors:
  
